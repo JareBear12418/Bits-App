@@ -1,0 +1,14 @@
+*.vscode/
+*.idea/
+/bitsapp
+/bitsapp37
+/build
+/dist
+/src
+/target
+*.spec
+test
+test.py
+drawTest.py
+/build-Bit_Config_Draw_GUI-Desktop-Debug
+__pycache__/
